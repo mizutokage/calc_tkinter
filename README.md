@@ -4,7 +4,7 @@
 - VScode (Visual Studio Code)
 
 # 概要
-簡易計算機をTkinterで実装
+簡易的な計算機をTkinterで実装
 
 # デモ
 ![](https://media4.giphy.com/media/WWWE6ComTkz1YOL7cC/giphy.gif)
