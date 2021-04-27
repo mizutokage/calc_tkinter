@@ -1,5 +1,5 @@
 # 開発環境
-- Python
+- Python3.8
 - Tkinter
 - VScode (Visual Studio Code)
 
